@@ -1,4 +1,5 @@
 **Coling 2018** - Dialogue Act Driven Conversation Model: An Experimental Study
+
 IR based dialog generation with Dialogue Act using generation and discriminative model on DailyDialog dataset.
 
 **This is a placeholder for the data and code associated with our paper titled "Dialogue Act Driven Conversation Model: An Experimental Study". We are currently in the process of obtaining approval from our organization to release the resources in public domain. We will update this page with the code, data and installation/execution instructions after we obtain the approval. **
